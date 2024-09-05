@@ -41,13 +41,7 @@ CertifyChain is developed using a modern stack of cutting-edge technologies desi
 3. **Decentralization**: Since the certificates are recorded on the blockchain, they remain decentralized and free from centralized control, ensuring their authenticity and permanence.
 
 ## 📝Prerequisites
-Make sure you have a web browser installed on your machine.
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such a powerful environment for learning, innovation, and collaboration. We highly encourage and appreciate contributions to CertifyChain, whether through code improvements, feature suggestions, or bug fixes.
-
-
+Make sure you have a web browser installed on your machine
 
 ## 📄 License
 

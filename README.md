@@ -42,6 +42,9 @@ CertifyChain is developed using a modern stack of cutting-edge technologies desi
 ## 📝Prerequisites
 Make sure you have a web browser installed on your machine
 
+##▶️Demo Video
+https://drive.google.com/file/d/1DvDPXSAy6QvN2irYiSKyaFwOgUfNZrij/view?usp=drive_link
+
 ## 📄 License
 
 This project is licensed under the MIT License, meaning you are free to use, modify, and distribute it. For more information, please refer to the LICENSE.md file for the full license details.

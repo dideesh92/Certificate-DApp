@@ -1,4 +1,3 @@
----
 
 # 🏆 Certificate Dapp: Blockchain-Powered Certificate Issuance & Verification Platform
 

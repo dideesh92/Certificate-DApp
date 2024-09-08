@@ -44,9 +44,9 @@ Certificate Dapp is developed using a modern stack of cutting-edge technologies 
 
 Make sure you have a web browser installed on your machine.
 
-## ▶️ Demo Video
+## ▶️ Demo Video in my channel
 
-https://drive.google.com/file/d/1DvDPXSAy6QvN2irYiSKyaFwOgUfNZrij/view?usp=drive_link
+[https://drive.google.com/file/d/1DvDPXSAy6QvN2irYiSKyaFwOgUfNZrij/view?usp=drive_link](https://youtu.be/X_F4dQjB6f8)
 
 ## 📄 License
 

@@ -1,5 +1,3 @@
-Here’s the updated version of the document with "CertifyChain" replaced by "Certificate Dapp":
-
 ---
 
 # 🏆 Certificate Dapp: Blockchain-Powered Certificate Issuance & Verification Platform
